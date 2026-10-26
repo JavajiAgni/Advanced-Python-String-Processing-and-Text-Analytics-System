@@ -1,0 +1,7 @@
+Python strings are sequences of Unicode characters.
+Text analytics can count words, detect patterns, and summarize documents.
+Example contact: student@example.edu
+Project resource: https://example.edu/research
+A palindrome reads the same forward and backward, for example: level.
+String search can use a naive algorithm or the Knuth-Morris-Pratt algorithm.
+Repeated letters: bookkeeper. Example values: 42, 3.14, and -7.
